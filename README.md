@@ -1,1 +1,1 @@
-# Python
+Exploratory data analysis that uncover customer purchasing patterns and support better market segmentation. The goal is to help Instacart develop targeted marketing strategies by identifying distinct customer profiles and behaviors.
